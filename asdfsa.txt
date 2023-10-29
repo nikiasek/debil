@@ -1,0 +1,167 @@
+
+13:08:32
+13:08:56---------------
+13:10:10---------------https://animechan.xyz/api/random
+valid: {api.status_code}type: {api.encoding}{"anime": "Terraformars", "character": "Adolf Reinhardt", "quote": "Even if I found happiness, my weakness can't be discarded. But, even so, I'm sure that we took the right path to move forward."}
+13:11:33
+---------------
+https://animechan.xyz/api/random
+valid: {api.status_code}
+type: {api.encoding}
+{"anime": "Bleach", "character": "Aizen Sousuke", "quote": "Good evening, Espada. There has been an enemy attack. But first...Let us brew some tea."}
+---------------
+13:12:36
+https://animechan.xyz/api/random
+valid: {api.status_code}
+type: {api.encoding}
+{"anime": "Naruto", "character": "Sakura Haruno", "quote": "The things that are most important aren't written in books. You have to learn them by experiencing them yourself."}
+---------------
+---------------
+13:15:33
+https://animechan.xyz/api/random
+valid: {api.status_code}
+type: {api.encoding}
+{"anime": "Initial D: Fifth Stage", "character": "Ryosuke Takahashi", "quote": "No matter how strong the pain is, it's our duty to move forward. You're wrong for running away from reality."}
+---------------
+---------------
+13:16:09
+https://animechan.xyz/api/random
+valid: {apiStatus}
+type: {apiEncode}
+{"anime": "Detective Conan", "character": "Ran Mouri", "quote": "You're always away during the important times and all you do is call. There are times when you are finally here, but then you disappear unexpectedly. Every time... every time... always, always, leaving me behind alone. What do you think I am? I love you Shinichi!"}
+---------------
+---------------
+13:21:48
+https://animechan.xyz/api/random
+
+---------------
+13:22:37
+https://animechan.xyz/api/random
+valid: 200
+type: utf-8
+{"anime": "xxxHOLiC", "character": "Yuuko Ichihara", "quote": "There's no such thing as a coincidence in this world. What does exist is only the inevitable."}
+---------------
+---------------
+16:23:03
+https://animechan.xyz/api/random
+valid: 200
+type: utf-8
+{"anime": "Fairy Tail", "character": "Natsu Dragneel", "quote": "I love adventures."}
+---------------
+---------------
+16:29:34
+https://animechan.xyz/api/random
+valid: 200
+type: utf-8
+{"anime": "Loveless", "character": "Aoyagi Ritsuka", "quote": "They call each other friends, but they are either using others or being used themselves."}
+---------------
+---------------
+16:32:20
+https://animechan.xyz/api/random
+valid: 200
+type: utf-8
+{"anime": "Golden Time", "character": "Hayashida Nana", "quote": "Once you miss the opportunity to say something, the words become increasingly toxic. The best thing to do is to just say everything."}
+---------------
+---------------
+16:39:20
+https://animechan.xyz/api/random
+valid: 200
+type: utf-8
+{"anime": "Utsuro no Hako to Zero no Maria", "character": "Miyazaki Ryuu", "quote": "A lie yields hope when you realize it's a lie. On the other hand, when you feel that a cruel fact is reality, you fall into despair all the more."}
+---------------
+---------------
+17:24:17
+https://animechan.xyz/api/random
+valid: 200
+type: utf-8
+{"anime": "Kanojo wa Uso wo Aishisugiteru", "character": "Aki Ogasawara", "quote": "In exchange of being able to get something that normal people can't have... you must let go of what normal people have."}
+---------------
+---------------
+17:28:20
+https://animechan.xyz/api/random
+valid: 200
+type: utf-8
+{"anime": "Shigatsu Wa Kimi No Uso", "character": "Kaori Miyazono", "quote": "So ephemeral and weak. But its shining with all its might. Thump, Thump, like a heartbeat. This is the light of life."}
+---------------
+---------------
+17:57:33
+https://animechan.xyz/api/random
+valid: 200
+type: utf-8
+{"anime": "Fairy Tail", "character": "Makarov Dreyar", "quote": "There are people in this world who prefer solitude. But there is no one who can withstand it."}
+-------------------------------------18:22:52https://animechan.xyz/api/randomvalid: 200type:utf-8----------------------18:23:14https://animechan.xyz/api/randomvalid: 200type:utf-8
+----------------------
+18:25:44
+https://animechan.xyz/api/random
+valid: 200
+type:utf-8
+----------------------
+18:30:10
+https://animechan.xyz/api/random
+valid: 200
+type:utf-8
+----------------------
+18:30:22
+https://animechan.xyz/api/random
+valid: 200
+type:utf-8{'anime': 'Yu-Gi-Oh! Arc-V', 'character': 'Reiji Akaba', 'quote': 'No matter how careful your risk hedging is, there will still be holes in your plan! Realizing them and making sure that they are promptly dealt with, is the duty of those who stand at the top.'}
+----------------------
+----------------------
+18:52:27
+https://animechan.xyz/api/random
+valid: 200
+type:utf-8{'anime': 'Attack on Titan', 'character': 'Levi Ackerman', 'quote': 'Some scouts’ lives are more valuable than others, only those dumb enough to acknowledge that join us.'}
+----------------------
+----------------------
+18:55:33
+https://animechan.xyz/api/random
+valid: 200
+type:utf-8{'anime': 'Naruto Shippuuden', 'character': 'Sasuke Uchiha', 'quote': 'No man chooses evil because it is evil; he only mistakes it for happiness, the good he seeks'}
+----------------------
+----------------------
+
+18:55:51
+https://animechan.xyz/api/random
+valid: 200
+type:utf-8{'anime': 'Fate/stay night', 'character': 'Archer', 'quote': 'Emiya Shirou! Listen, you are not "one who fights". You are nothing more than "one who creates". Don\'t think of irrelevant things. There is only one thing you can do, master that one thing. Do not forget. The thing you image is always "your strongest self." You don\'t need any other enemies. The opponent you have to fight is none other than "your own image".'}
+----------------------
+
+----------------------
+
+18:56:11
+https://animechan.xyz/api/random
+valid: 200
+type:utf-8{'anime': 'Avatar: The Last Airbender', 'character': 'Aang', 'quote': "[after Zuko calls him a child] Well, you're just a teenager."}
+----------------------
+
+----------------------
+18:56:54
+https://animechan.xyz/api/random
+valid: 200
+type:utf-8{'anime': 'Highschool Debut', 'character': 'Haruna Nagashima', 'quote': "Of course I'm insecure. Of course I'm lonely. Of course I wanna see him. And of course being so far apart sucks, but the thing is, nobody else could ever take his place. So it doesn't matter if I don't want a long-distance relationship. I don't have a choice, but I have to do it. I love him."}
+----------------------
+----------------------
+2023-10-27 18:59:30
+https://animechan.xyz/api/random
+valid: 200
+type:utf-8{'anime': 'Rurouni Kenshin', 'character': 'Kenshin Himura', 'quote': 'Perhaps the distant part of the sky always seems clearest, so that we will always strive to reach it.'}
+----------------------
+----------------------
+2023-10-27 19:01:51
+https://animechan.xyz/api/random
+valid: 200
+type:utf-8{'anime': 'No Game No Life', 'character': 'Sora', 'quote': 'We do not stop playing games because we grow old, we grow old because we stop playing.'}
+----------------------
+----------------------
+2023-10-27 19:03:02
+https://animechan.xyz/api/random
+valid: 200
+type:utf-8{'anime': 'Toaru Majutsu no Index', 'character': 'Haruki Aritomi', 'quote': "The Idealist says, everyone is born equal. We are all of equal worth. The sportsman screams, no effort goes unrewarded. Work hard for your dreams! It's about how you play the game. Obviously all untrue."}
+----------------------
+----------------------
+2023-10-27 19:03:48
+https://animechan.xyz/api/random
+valid: 200
+type: utf-8
+{'anime': 'Fullmetal Alchemist', 'character': 'Pride', 'quote': 'Appearances rarely share the whole truth.'}
+----------------------
